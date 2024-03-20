@@ -1,4 +1,4 @@
-Building a **Destination Search engine** app by taking user input.
+Building a REACT **Destination Search engine** app by taking user Input.
 
 ### Refer to the image below:
 
