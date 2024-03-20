@@ -1,4 +1,4 @@
-In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
+Building a **Destination Search engine** app by taking user input.
 
 ### Refer to the image below:
 
